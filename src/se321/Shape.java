@@ -27,6 +27,6 @@ public class Shape {
         }
     }
     public void show(){
-        System.out.println("this is a shape.");
+        System.out.println("this is a shape!");
     }
 }
